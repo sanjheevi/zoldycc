@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**zoldycc/zoldycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A 3rd Year undergraduate from Amrita University , Coimbatore.
 
-Here are some ideas to get you started:
+Things I do with my free time 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Android Open Source Project (Palladium-OS)
+- 🌱 I’m currently learning ReactJs
+- 👯 I’m looking to collaborate on Web Development
+- 💬 Ask me about my projects !
+---
+<br>
+
+[![Sanjheevi's gitstats](https://github-readme-stats.vercel.app/api?username=zoldycc&layout=compact&theme=calm&count_private=true)](https://github.com/zoldycc)
